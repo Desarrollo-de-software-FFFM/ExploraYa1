@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0A8C0E60-2EC9-4848-B539-A7634E180092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turismo.Dominio", "ClassLibrary1\Turismo.Dominio.csproj", "{58040332-F41B-4861-BCAC-F56F0874B772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8C0E60-2EC9-4848-B539-A7634E180092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8C0E60-2EC9-4848-B539-A7634E180092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8C0E60-2EC9-4848-B539-A7634E180092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8C0E60-2EC9-4848-B539-A7634E180092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58040332-F41B-4861-BCAC-F56F0874B772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58040332-F41B-4861-BCAC-F56F0874B772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58040332-F41B-4861-BCAC-F56F0874B772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58040332-F41B-4861-BCAC-F56F0874B772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D4D573-62CD-4991-878B-0C26A8309841}
+	EndGlobalSection
+EndGlobal
